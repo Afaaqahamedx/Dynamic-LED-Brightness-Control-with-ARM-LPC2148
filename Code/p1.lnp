@@ -1,0 +1,4 @@
+--device DARMP "startup.o" "p1.o" --library_type=microlib --strict --scatter "p1.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\p1.map" -o "p1.axf"
