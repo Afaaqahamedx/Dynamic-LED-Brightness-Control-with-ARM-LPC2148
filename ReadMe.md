@@ -1,7 +1,7 @@
 # Dynamic-LED-Brightness-Control-with-ARM-LPC2148 💡
 This project involves designing and utilizing the ARM7-LPC2148 microcontroller with LDR and IR sensor integration to showcase Pulse Width Modulation (PWM) for LED brightness control.
 
-Below are the detailed steps for configuring the LPC2148 microcontroller for PWM (Pulse Width Modulation) and ADC (Analog-to-Digital Conversion). Each step is explained, covering aspects such as configuring the PLL, setting up PWM, configuring ADC, and interfacing with an LCD display.
+ Below are the detailed steps for configuring the LPC2148 microcontroller for PWM (Pulse Width Modulation) and ADC (Analog-to-Digital Conversion). Each step is explained, covering aspects such as configuring the PLL, setting up PWM, configuring ADC, and interfacing with an LCD display.
 
 ## Here's a summary of the main steps involved:
 
